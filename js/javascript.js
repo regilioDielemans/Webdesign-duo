@@ -12,6 +12,15 @@ for(i = 0; i < isRed.length; i++){
 	isRed[i].style.color="red";
 }
 
+function validateForm() {
+    var x = document.forms["myForm"]["fname"].value;
+    if (x == "") {
+        alert("Name must be filled out");
+        return false;
+    }else{
+    	document.getElementById('welkom').innerHTML = x;
+    }
+}
 
 function MakeGreen() {
 	while(document.getElementsByTagName('h1')){

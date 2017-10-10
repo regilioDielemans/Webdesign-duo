@@ -1,8 +1,14 @@
 <?php include 'includes/header.php'; ?>
 <div class="container">
 	<div class="jumbotron">
-	    <h1>Les 4 Websdesign</h1>      
+
+	    <h1 id="welkom">Les 4 Websdesign</h1>      
 	    <p>met HTML, CSS en JavaScript</p>
+<form name="myForm" onsubmit="validateForm()" method="post">
+Name: <input type="text" name="fname">
+<input type="submit" value="Submit">
+</form>
+	</p>
   	</div>  
 </div>
 <div class="container">
