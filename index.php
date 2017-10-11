@@ -4,10 +4,10 @@
 
 	    <h1 id="welkom">Les 4 Websdesign</h1>      
 	    <p>met HTML, CSS en JavaScript</p>
-<form name="myForm" onsubmit="validateForm()" method="post">
-Name: <input type="text" name="fname">
-<input type="submit" value="Submit">
-</form>
+		<form name="myForm" action="#" onsubmit="validateForm()" method="GET">
+			Name: <input type="text" name="fname">
+			<input type="submit" value="Submit">
+		</form>
 	</p>
   	</div>  
 </div>

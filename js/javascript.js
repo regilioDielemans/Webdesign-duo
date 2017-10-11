@@ -1,6 +1,9 @@
 var x = document.getElementsByClassName('red').length;
 document.getElementById('countRedH1').innerHTML = x;
 
+var y = document.forms["myForm"]["fname"].value;
+document.getElementById('welkom').innerHTML = y;
+
 var y = document.getElementsByTagName('h1')
 
 for( i = 0; i < y.length; i++){
@@ -19,6 +22,7 @@ function validateForm() {
         return false;
     }else{
     	document.getElementById('welkom').innerHTML = x;
+
     }
 }
 
