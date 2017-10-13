@@ -26,6 +26,7 @@
        
         <li><a href="lessen.php">Lessen</a></li>
         <li><a href="studiepunten.php">Studiepunten</a></li>
+        <li><a href="geschiktheid.php">Geschiktheid</a></li>
         
       </ul>
     </div>
