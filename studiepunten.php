@@ -2,7 +2,15 @@
 <div class="container">
 	<h1>Studiepunten</h1>
 	<div class="col-md-6">
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae natus sequi officia accusantium ab tempore, aliquid quo, totam aut doloremque assumenda voluptate, quia consectetur necessitatibus et labore nihil? Ut, repellat. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit commodi ea omnis quia dolore quod temporibus aspernatur laborum porro ab esse nemo eos, aliquam corrupti quis repellendus atque! Dolores, nulla! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint quaerat placeat, natus ex! Sapiente quibusdam perferendis neque delectus pariatur magnam maxime dolor voluptas impedit odio saepe, modi repudiandae quos assumenda alias. Minima, sapiente. Perspiciatis corrupti fuga rerum molestias nisi molestiae commodi sed, ullam dolore. Excepturi quisquam quos id ratione sequi.</p>
+	<p>
+		studiepunten zijn punten die je kan verdienen door iets te doen voor je studie. Vaak is dit een tentamen. Maar ook met een verslag schrijven of door stage te lopen kan je Studiepuntennten verdienen. Wat je moet doen voor een studiepunt verschilt per vak. Ook het aantal studiepunten dat je verdient verschilt per vak.
+	</p>
+	<p>
+		Het bereken van studiepunt is heel makkelijk. Dit wordt berekent door het aantal uren dat je met een vak bezig bent. Voor elke 28 uur werk krijg je 1 studie punt. De opleiding rekent uit hoeveel tijd je gemiddeld kwijt bent voor een vak en bepaald dan hoeveel studiepunten je voor dat vak kan verdien. Voor kleine vakken kan je dus 1 studiepunt verdienen. Maar voor een groot vak kunnen dat er ook veel meer zijn. 
+	</p>
+	<p>
+		Je kunt in een jaar 60 studiepunten halen. Je moet er 52 hebben om over te gaan maar uiteindelijk wel allemaal hebben. De opleiding duurt 4 jaar en aan het eind moet je dus 240 Studiepunten hebben. En zal je dus  1680 uur per jaar moeten studeren. 
+	</p>
 	</div>
 	<div class="col-md-6">
 		<img src="images/lovensdijk.jpg" alt="Avans hogenschool lovendijkstraat" width="100%">
