@@ -2,9 +2,11 @@
 
 <div class="container">
 	<div class="jumbotron">
-	    <h1 id="welkom">Welkom</h1>		
-		  Naam: <input id="Name"type="text" name="fname" placeholder="Vul hier je naam in.">
-		  		<button onclick="WelkomFunction()">Verstuur</button>
+	    <h1 id="welkom">Welkom</h1>
+	    <div id="WekomName">		
+		  <input class="inputName" id="Name" type="text" name="fname" placeholder="Vul hier je naam in.">
+		  <button class="btn btn-light" onclick="WelkomFunction()">Verstuur</button>
+		</div>
 		
 	</div>
 	<div class="col-md-6">
