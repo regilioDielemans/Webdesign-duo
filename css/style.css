@@ -1,14 +1,13 @@
-
-.red{
-	color: red;
+body{
+	background-color: #f8f8f8;
 }
 
 .jumbotron{
+<<<<<<< HEAD
 	background-color: red;
 }
 
-.navbar
-{
-	background-color: rgb(68, 138, 255);
+=======
+	background-color: White;
 }
-
+>>>>>>> dbe11ff0bcc5f21c5a7a09b0e271121711c5f604
