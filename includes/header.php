@@ -27,6 +27,7 @@
         <li><a href="lessen.php">Lessen</a></li>
         <li><a href="studiepunten.php">Studiepunten</a></li>
         <li><a href="geschiktheid.php">Geschiktheid</a></li>
+        <li><a href="beroepen.php">Beroepen</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="contact.php">Contact</a></li>
