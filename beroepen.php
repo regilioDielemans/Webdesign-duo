@@ -15,7 +15,7 @@
 
 	<div class="col-lg-6 col-md-6 col-xs-12">
 		<a target="_blank" href="https://www.pexels.com/photo/adult-apple-device-business-code-340152/">
-			<img class="img-responsive" id="personPic" src="images/personPic2.jpeg">
+			<img class="img-responsive" id="personPic" src="images/personPic2.jpg">
 			<p><br></p>
 		</a>
 	</div>
