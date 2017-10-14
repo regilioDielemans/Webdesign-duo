@@ -25,3 +25,41 @@ body{
 	height: 30px;
  	width: auto;
 }
+
+
+.navbar
+{
+	background-color: rgb(7,76,188);
+}
+
+.navbar-brand
+{
+	background-color:rgb(255,255,255);
+}
+
+.navbar-brand a:hover
+{
+	background-color:grey;
+}
+
+
+
+
+.nav.navbar-nav li a
+{
+	color: rgb(255,255,255);
+}
+
+.nav.navbar-nav li a:hover
+{
+	background-color:rgb(7,58,140);
+	color: rgb(255,255,255);
+}
+
+
+
+body
+{
+	padding-top: 60px;
+}
+

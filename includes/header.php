@@ -7,7 +7,7 @@
 	</head>
 <body>
 
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
     <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -24,10 +24,10 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
        
-        <li><a href="lessen.php">Lessen</a></li>
-        <li><a href="studiepunten.php">Studiepunten</a></li>
-        <li><a href="geschiktheid.php">Geschiktheid</a></li>
-        <li><a href="beroepen.php">Beroepen</a></li>
+        <li><a href="lessen.php" id="navbarLessen">Lessen</a></li>
+        <li><a href="studiepunten.php" id="navbarStudiepunten">Studiepunten</a></li>
+        <li><a href="geschiktheid.php" id="navbarGeschiktheid">Geschiktheid</a></li>
+        <li><a href="beroepen.php" id="navbarBeroepen">Beroepen</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="contact.php">Contact</a></li>
