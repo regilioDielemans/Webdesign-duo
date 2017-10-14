@@ -37,9 +37,9 @@ body{
 	background-color:rgb(255,255,255);
 }
 
-.navbar-brand a:hover
+.navbar-default .navbar-brand:hover
 {
-	background-color:grey;
+	background-color:rgb(235,235,235);
 }
 
 
