@@ -4,7 +4,7 @@ function WelkomFunction() {
     
     if(Name == "frank tempelman" || Name == "Frank tempelman" || Name == "frank Tempelman" || Name == "Frank Tempelman"){
     	document.getElementById("welkom").innerHTML = "Welkom " + Name;
-    	document.getElementById("welkom").style.fontFamily = "comic sans";
+    	document.getElementById("welkom").style.fontFamily = "Comic Sans MS";
     	document.getElementById('WekomName').innerHTML = "";
 
     }else{
@@ -13,4 +13,3 @@ function WelkomFunction() {
     	document.getElementById('WekomName').innerHTML = "";	
     }
 }
-
