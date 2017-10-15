@@ -1,7 +1,7 @@
 <?php include 'includes/header.php'; ?>
 <div class="container">
 	<h1>Geschiktheid</h1>
-	<div class="col-lg-6 col-md-6 col-xs-12" >
+	<div class="col-lg-6 col-md-6 col-xs-12"> 
 		<p> In een auto of in een smartphone. Overal zul je software vinden en voor jou is dit geen probleem. Jij kan je weg altijd vinden met software en wanneer er dan weer eens iets mis gaat bij iemand, wordt jij aangekeken als degene die het kan oplossen. Dit is het begin van bijna elke informaticus. Wil jij leren hoe je software ontwikkelt en alles daar om heen? Als jouw antwoord ja is, dan ben je een geschikte kandidaat voor informatica </p>
 
 		<p>Als informaticus wordt er van je verwacht dat je een aantal compenties in huis hebt. Dat zijn de volgende competenties: analytisch, accuratesse, logisch, samenwerken, nieuwsgierigheid, discipline, technisch inzicht, communicatief vaardig, conceptueel denken. Eentje die vreemd genoeg vaak niet genoemd wordt is doorzettingsvermogen. </p>
@@ -21,15 +21,15 @@
 		<p>Als je aan deze opleiding wilt beginnen zul je moeten voldaan aan de volgende toelatingseisen</p>
 		<table class="table table-hover col-lg-12 col-md-12 col-xs-12">
 			<thread>
-				<tr>
+				<tr> <!-- kolommen -->
 					<th class="col-lg-6 col-xs-6 col-md-6">Profiel</th>
 					<th class="col-lg-6 col-xs-6 col-md-6">Toelichting</th>
 				</tr>
 			</thread>
 			<tbody>
-				<tr>
-					<td>Havo C&#38;M</td>
-					<td>&#10003;</td>
+				<tr>	<!-- records -->
+					<td>Havo C&#38;M</td>  <!-- & teken-->
+					<td>&#10003;</td>   <!-- check mark -->
 				</tr>
 				<tr>
 					<td>Havo E&#38;M</td>

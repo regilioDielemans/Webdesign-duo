@@ -3,7 +3,7 @@
 <div class="container">
 	<div class="jumbotron">
 	    <h1 id="welkom">Welkom</h1>
-	    <div id="WekomName">		
+	    <div id="WekomName">	<!-- Welkom + naam -->	
 		  <input class="inputName" id="Name" type="text" name="fname" placeholder="Vul hier je naam in.">
 		  <button class="btn btn-light" onclick="WelkomFunction()">Verstuur</button>
 		</div>

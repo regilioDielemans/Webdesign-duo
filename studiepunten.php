@@ -1,7 +1,7 @@
 <?php include 'includes/header.php'; ?>
 <div class="container">
 	<h1>Studiepunten</h1>
-	<div class="col-md-6">
+	<div class="col-md-6">  <!-- uitleg studiepunten -->
 	<p>
 		Studiepunten zijn punten die je kan verdienen door iets te doen voor je studie. Vaak is dit door het succesvol maken van een tentamen. Maar ook met een verslag schrijven of door stage te lopen kan je Studiepuntenten verdienen. Wat je moet doen voor een studiepunt verschilt per vak. Ook het aantal studiepunten dat je verdient verschilt per vak.
 	</p>

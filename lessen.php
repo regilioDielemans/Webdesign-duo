@@ -2,7 +2,7 @@
 <div class="container">
 	
 <h1>Lessen</h1>
-	<div class="col-md-3">
+	<div class="col-md-3"> <!-- vakken verdeeld per jaar in lijsten -->
 		<h2>Jaar 1</h2>
 		<ul>
 			<li>Bedrijfsprocessen</li>
@@ -63,7 +63,7 @@
 		<img src="images/hogeschoollaan.jpg" alt="" width="100%">
 	</div>
 
-	<div class="col-lg-12 col-md-12 col-xs-12">
+	<div class="col-lg-12 col-md-12 col-xs-12">   <!-- beschrijving jaar -->
 		<h2 id="lessenJaar1">Jaar 1</h2>
 		<p id="lessenText1">In het eerste jaar zal je de beginselen van programmeren leren. Dat betekent dan ook dat je hier leert denken in classes, objects, methods. Niet een hele lang regel aan code met duizenden herhalingen. Je zal Java gebruiken voor het programmeren en voor het ontwerpen UML. Daarnaast zal ga je ook leren te werken met databases met SQL. Dingen zoals: "Hoe kan ik data opvragen?" en "Hoe kan ik data bewerken"</p>
 

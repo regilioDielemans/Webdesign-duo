@@ -2,11 +2,12 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Les4</title>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<title>Duo-opdracht_Webdesign-studievaardigheden</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> <!-- Bootstrap CDN-->
 	</head>
 <body>
 
+<!-- Navbar via Bootstrap -->
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
     <div class="container">
@@ -18,7 +19,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.php"><img id="logo" src="images/AvansLogo.png"></a>
+      <a class="navbar-brand" href="index.php"><img id="logo" src="images/AvansLogo.png"></a>   <!-- gephotoshopped logo om naar de home page te gaan -->
     </div>
 
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">

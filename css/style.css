@@ -1,5 +1,6 @@
 body{
 	background-color: #f8f8f8;
+	padding-top: 60px;
 }
 
 .jumbotron{
@@ -7,6 +8,7 @@ body{
 	background-color: #f8f8f8;
 }
 
+/* Welkom + naam*/
 .inputName{
 	width: 80%;
     height: 34px;
@@ -20,34 +22,37 @@ body{
     border-radius: 4px;
 }
 
+
 #logo
 {
 	height: 30px;
  	width: auto;
 }
 
-
+/* Navbar kleur */
 .navbar
 {
 	background-color: rgb(7,76,188);
 }
 
+/* tekst navbar wit */
+.nav.navbar-nav li a
+{
+	color: rgb(255,255,255);
+}
+
+
+/* Navbar background wit bij logo ipv. blauw */
 .navbar-brand
 {
 	background-color:rgb(255,255,255);
 }
 
+
+/* Navbar achtergrond donker bij hover */
 .navbar-default .navbar-brand:hover
 {
 	background-color:rgb(235,235,235);
-}
-
-
-
-
-.nav.navbar-nav li a
-{
-	color: rgb(255,255,255);
 }
 
 .nav.navbar-nav li a:hover
@@ -57,7 +62,7 @@ body{
 }
 
 
-
+/* Burger button witte lijnen, bij hover zwart */
 .navbar-default .navbar-toggle .icon-bar
 {
 	background-color: rgb(255,255,255);
@@ -68,29 +73,10 @@ body{
 	background-color: rgb(0,0,0);
 }
 
-.buttonBackground
-{
-	background-color: rgb(235,235,235);
-}
 
-.buttonLines
-{
-	background-color: rgb(0,0,0);
-}
-
-
-
-
-
-
+/* foto's bij contact correcte grote*/
 .contactFoto
 {
 	height: 500px;
 	width: auto;
 }
-
-body
-{
-	padding-top: 60px;
-}
-
