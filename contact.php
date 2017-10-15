@@ -5,10 +5,10 @@
 	<div>
 		<h4 class="col-md-12 col-lg-12 col-xs-12">website gemaakt door:</h3>
 		<img class="col-md-6 col-lg-6 col-xs-12 contactFoto img-responsive" src="images/contactRegilio.png">
-		<img class="col-md-6 col-lg-6 col-xs-12 contactFoto img-responsive" src="images/contactDamian.png">
+		<img class="col-md-6 col-lg-6 col-xs-12 contactFoto img-responsive" src="images/contactDamian.png">	
 	</div>
-	<div class="col-md-6">
-		<h4>Webdesign:</h4>
+	<div class="col-md-12 col-lg-12 col-xs-12">
+		<h4><br>Webdesign:</h4>
 		<p>
 		Deze website is gemaakt als eindopdracht voor webdesign. En is in het kader gemaakt van informatica.
 		</p>
