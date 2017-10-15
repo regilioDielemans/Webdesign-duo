@@ -13,3 +13,9 @@ function WelkomFunction() {
     	document.getElementById('WekomName').innerHTML = "";	
     }
 }
+
+$('#navbarButton').click(function() {
+    $('.navbar-default .navbar-toggle .icon-bar').css({
+        'background-color': 'rgb(0,0,0)'
+    });
+});

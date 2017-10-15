@@ -68,6 +68,21 @@ body{
 	background-color: rgb(0,0,0);
 }
 
+.buttonBackground
+{
+	background-color: rgb(235,235,235);
+}
+
+.buttonLines
+{
+	background-color: rgb(0,0,0);
+}
+
+
+
+
+
+
 .contactFoto
 {
 	height: 500px;
