@@ -2,23 +2,16 @@
 <div class="container">
 	<h1>Contact</h1>
 
-	<div class="col-md-6">
-	<h4>website gemaakt door:</h3>
-	<p>
-		Regilio Dielemans <br />
-		Rdielema2@avans.nl <br />
-		2114221 <br />
-	</p>
-	<p>
-		Damian Buzink <br />
-		Dmbuzink@avans.nl <br />
-		2123162 <br />
-		
-	</p>	
+	<div>
+		<h4 class="col-md-12 col-lg-12 col-xs-12">website gemaakt door:</h3>
+		<img class="col-md-6 col-lg-6 col-xs-12 contactFoto img-responsive" src="images/contactRegilio.png">
+		<img class="col-md-6 col-lg-6 col-xs-12 contactFoto img-responsive" src="images/contactDamian.png">
 	</div>
 	<div class="col-md-6">
 		<h4>Webdesign:</h4>
-		<p>Deze website is gemaakt als eindopdracht voor webdesign.En is in het kader gemaakt van informatica.</p>
+		<p>
+		Deze website is gemaakt als eindopdracht voor webdesign. En is in het kader gemaakt van informatica.
+		</p>
 	</div>
 </div>
 	

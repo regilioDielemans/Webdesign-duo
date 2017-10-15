@@ -1,8 +1,6 @@
 <?php include 'includes/header.php'; ?>
 <div class="container">
-	<div class="col-md-12">
-		<img src="images/hogeschoollaan.jpg" alt="" width="100%">
-	</div>
+	
 <h1>Lessen</h1>
 	<div class="col-md-3">
 		<h2>Jaar 1</h2>
@@ -59,6 +57,10 @@
 			<li>Minor</li>
 			<li>Afstudeerstage</li>
 		</ul>
+	</div>
+
+	<div class="col-md-12">
+		<img src="images/hogeschoollaan.jpg" alt="" width="100%">
 	</div>
 
 	<div class="col-lg-12 col-md-12 col-xs-12">
