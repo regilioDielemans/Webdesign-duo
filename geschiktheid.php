@@ -4,9 +4,9 @@
 	<div class="col-lg-6 col-md-6 col-xs-12"> 
 		<p> In een auto of in een smartphone. Overal zul je software vinden en voor jou is dit geen probleem. Jij kan je weg altijd vinden met software en wanneer er dan weer eens iets mis gaat bij iemand, wordt jij aangekeken als degene die het kan oplossen. Dit is het begin van bijna elke informaticus. Wil jij leren hoe je software ontwikkelt en alles daar om heen? Als jouw antwoord ja is, dan ben je een geschikte kandidaat voor informatica </p>
 
-		<p>Als informaticus wordt er van je verwacht dat je een aantal compenties in huis hebt. Dat zijn de volgende competenties: analytisch, accuratesse, logisch, samenwerken, nieuwsgierigheid, discipline, technisch inzicht, communicatief vaardig, conceptueel denken. Eentje die vreemd genoeg vaak niet genoemd wordt is doorzettingsvermogen. </p>
+		<p>Als informaticus wordt er van je verwacht dat je een aantal compenties in huis hebt. Dat zijn de volgende competenties: analytisch, accuratesse, logisch, samenwerken, nieuwsgierigheid, discipline, technisch inzicht, communicatief vaardig, conceptueel denken. Eentje die vreemd genoeg vaak niet genoemd wordt is doorzettingsvermogen. Een algemene instelling voor programmeurs is: De eerste keer dat dat je je programme runt zal het niet werken. Een groot deel van programmeren is Waarom werkt dit programma niet en hoe kan ik het oplossen? Zonder doorzettingsvermogen kom je dus niet ver. </p>
 
-		<p>Als informaticus zal je ook je hele carrière blijven leren. De technische wereld ontwikkelt zich ongelooflijk snel en jij zal dat allemaal bij moeten houden. Daarnaast wordt er ook verwacht dat je in het algemeen leert. Misschien zal je bij een bepaald project een techniek moet gebruiken die je nog nooit eerder gebruikt hebt. Je zal dan daar mee om moeten kunnen gaan. </p>
+		<p>Als informaticus zal je ook je hele carrière blijven leren. De technische wereld ontwikkelt zich ongelooflijk snel en jij zal dat allemaal bij moeten houden. Daarnaast wordt er ook verwacht dat je in het algemeen leert. Misschien zal je bij een bepaald project een techniek moet gebruiken die je nog nooit eerder gebruikt hebt. Je zal dan daarmee om moeten kunnen gaan. </p>
 	</div>
 
 	<div class="col-lg-6 col-md-6 col-xs-12">
